@@ -1,5 +1,5 @@
 # google-cli
-Scripts to search google from terminal
+Scripts to search google from terminal: Opens a new tab in browser with the query
 
 ##How to use:
 Run the script `google_search.py` as `python google_search.py search_term`
