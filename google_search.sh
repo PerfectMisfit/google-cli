@@ -1,4 +1,4 @@
-google() {
+googles() {
     search=""
     echo "Googling: $@"
     for term in $@; do
