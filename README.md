@@ -10,4 +10,6 @@ or
 
 - Open `.bashrc` in your `$HOME` directory and add the line `source ~/bin/google_search.sh` at the bottom.
 
+- Make the file executable as `chmod +x google_search.sh`
+
 - Search as `googles search_term`
